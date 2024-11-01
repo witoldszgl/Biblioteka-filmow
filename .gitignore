@@ -30,12 +30,6 @@ obj/
 *.gz
 
 
-*.js
-*.jsx
-*.ts
-*.tsx
-*.map
-
 
 node_modules/
 yarn.lock
