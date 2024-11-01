@@ -48,7 +48,7 @@ dist/
 
 *.mdf
 *.ldf
-/db/
+
 
 
 .env
